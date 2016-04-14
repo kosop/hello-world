@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-just a great
+just a great in his opposite attitude like mine
